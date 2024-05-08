@@ -1,0 +1,55 @@
+.title {
+    background-color: black;
+    color: white;
+    padding: 32px;
+    text-align: center;
+    font-size: 200%;
+    margin: 10px;
+    margin-top: -1%;
+}
+#menu {
+    margin: 2px;
+    text-align: center;
+    color: black;
+}
+#menu li a {
+    color: black;
+    margin-left: -1%;
+}
+#menu li {
+    display: inline-block;
+    color: black;
+    font-size: 120%;
+    margin-left: 1%;
+}
+#sobre {
+    font-size: 150%;
+}
+.sobre2 {
+    font-size: 120%;
+    width: 50%;
+}
+.sobre3{
+    font-size: 120%;
+    align-items: right;
+}
+#lista3 {
+    font-size: 120%;
+    width: 50%;
+}
+.img {
+    float: right;
+    margin-right: -95%;
+    padding: 5px;
+    width: 650px;
+    height: 370px;
+}
+.img2{
+    float: left;
+    align-items: center;
+    display: flex;
+    margin-right: 2%;
+    padding: 5px;
+    width: 550px;
+    height: 370px;
+}
